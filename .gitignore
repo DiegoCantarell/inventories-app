@@ -1,0 +1,53 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Gradle files
+.gradle/
+/build/
+/captures/
+/local.properties
+/.externalNativeBuild
+/.cxx/
+
+# Android Studio configuration
+/.idea/
+/.idea_modules/
+/*.iml
+/.gradle/
+/caches/
+/workspace.xml
+/.DS_Store
+
+# ProGuard files
+/proguard/
+/proguard-rules.pro
+
+# Logs and crash reports
+/log/
+/crash-reports/
+
+# Miscellaneous
+/.classpath
+/.project
+/.settings/
+
+# Keystore files
+/keystore.properties
+/debug.keystore
+/release.keystore
+
+# Local configuration file (example: Firebase google-services.json)
+/google-services.json
+
+# Exclude specific build types and flavors
+**/build/
+**/production/
+**/staging/
+
+# Exclude generated code
+**/generated/
+
